@@ -2,8 +2,15 @@
 * @Author: admin
 * @Date:   2018-10-12 14:10:19
 * @Last Modified by:   admin
-* @Last Modified time: 2018-10-12 14:22:58
+* @Last Modified time: 2018-11-07 18:15:51
 */
+body{
+
+	min-width: 320px;
+	max-width: 640px;
+    margin: 0 auto;
+   
+}
 header img{
 	width: 100%;
 }
